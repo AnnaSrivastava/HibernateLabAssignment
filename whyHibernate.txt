@@ -1,0 +1,10 @@
+Hibernate is a wrapper over JDBC. It simplifies database programming in Java by helping us to interact with database in ORM way.
+
+1.Provides Lazy Loading: grab data only as it's needed.
+2. Provides Eager Fetching: Grabs all data from databse in one operation.
+3. Provides Caching: Changes to a database table should result in changes to other table should result in changes to other tables as well.
+4. Implements Caching
+
+..>Keeps our focus on OO code
+-->Insulates us from DB choice
+-->Hits the database in optimal way
